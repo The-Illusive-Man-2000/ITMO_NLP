@@ -50,3 +50,7 @@ __Папка USE:__
 Brand_identity_USE_testing.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _Эксперименты с созданием эмбеддингов с помощью universal sentence encoder._
 NLP_Inference_USE.ipynb   $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _Инференс с помощью universal sentence encoder. Сравнение названий._
 
+***
+
+__Папка itmo_duplicate_detection:__
+
