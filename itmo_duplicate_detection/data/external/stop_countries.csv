@@ -1,0 +1,327 @@
+0,afghanistan
+1,albania
+2,algeria
+3,andorra
+4,angola
+5,antigua and barbuda
+6,argentina
+7,armenia
+8,austria
+9,azerbaijan
+10,bahrain
+11,bangladesh
+12,barbados
+13,belarus
+14,belgium
+15,belize
+16,benin
+17,bhutan
+18,bolivia
+19,bosnia and herzegovina
+20,botswana
+21,brazil
+22,brunei
+23,bulgaria
+24,burkina faso
+25,burundi
+26,cabo verde
+27,cambodia
+28,cameroon
+29,canada
+30,central african republic
+31,chad
+32,channel islands
+33,chile
+34,china
+35,colombia
+36,comoros
+37,congo
+38,costa rica
+39,'côte d''ivoire'
+40,croatia
+41,cuba
+42,cyprus
+43,czech republic
+44,denmark
+45,djibouti
+46,dominica
+47,dominican republic
+48,dr congo
+49,ecuador
+50,egypt
+51,el salvador
+52,equatorial guinea
+53,eritrea
+54,estonia
+55,eswatini
+56,ethiopia
+57,faeroe islands
+58,finland
+59,france
+60,french guiana
+61,gabon
+62,gambia
+63,georgia
+64,germany
+65,ghana
+66,gibraltar
+67,greece
+68,grenada
+69,guatemala
+70,guinea
+71,guinea-bissau
+72,guyana
+73,haiti
+74,holy see
+75,honduras
+76,hong kong
+77,hungary
+78,iceland
+79,india
+80,indonesia
+81,iran
+82,iraq
+83,ireland
+84,isle of man
+85,israel
+86,italy
+87,jamaica
+88,japan
+89,jordan
+90,kazakhstan
+91,kenya
+92,kuwait
+93,kyrgyzstan
+94,laos
+95,latvia
+96,lebanon
+97,lesotho
+98,liberia
+99,libya
+100,liechtenstein
+101,lithuania
+102,luxembourg
+103,macao
+104,madagascar
+105,malawi
+106,malaysia
+107,maldives
+108,mali
+109,malta
+110,mauritania
+111,mauritius
+112,mayotte
+113,mexico
+114,moldova
+115,monaco
+116,mongolia
+117,montenegro
+118,morocco
+119,mozambique
+120,myanmar
+121,namibia
+122,nepal
+123,netherlands
+124,nicaragua
+125,niger
+126,nigeria
+127,north korea
+128,north macedonia
+129,norway
+130,oman
+131,pakistan
+132,panama
+133,paraguay
+134,peru
+135,philippines
+136,poland
+137,portugal
+138,qatar
+139,réunion
+140,romania
+141,russia
+142,rwanda
+143,saint helena
+144,saint kitts and nevis
+145,saint lucia
+146,saint vincent and the grenadines
+147,san marino
+148,sao tome & principe
+149,saudi arabia
+150,senegal
+151,serbia
+152,seychelles
+153,sierra leone
+154,singapore
+155,slovakia
+156,slovenia
+157,somalia
+158,south africa
+159,south korea
+160,south sudan
+161,spain
+162,sri lanka
+163,state of palestine
+164,sudan
+165,suriname
+166,sweden
+167,switzerland
+168,syria
+169,taiwan
+170,tajikistan
+171,tanzania
+172,thailand
+173,the bahamas
+174,timor-leste
+175,togo
+176,trinidad and tobago
+177,tunisia
+178,turkey
+179,turkmenistan
+180,uganda
+181,ukraine
+182,united arab emirates
+183,united kingdom
+184,united states
+185,uruguay
+186,uzbekistan
+187,venezuela
+188,vietnam
+189,western sahara
+190,yemen
+191,zambia
+192,zimbabwe
+8,australia
+31,cape verde
+38,republic of the congo
+39,democratic republic of the congo
+45,czech
+47,djibuti
+48,dominica republic
+49,east timor
+58,fiji
+62,the gambia
+90,kosovo
+107,marshall islands
+111,federated states of micronesia
+121,the netherlands
+122,new zealand
+130,palau
+131,palestine
+133,papua new guinea
+138,portugual
+146,samoa
+148,são tomé and principe
+157,solomon islands
+171,tonga
+175,tuvalu
+183,vanuatu
+184,vatican city
+0,afghanestan
+1,shqipëria
+2,dzayer
+7,hayastán
+9,österreich
+10,azərbaycan
+12,al-bahrayn
+15,"bielaruś, беларусь"
+16,"belgië, belgique, belgien"
+18,bénin
+19,druk yul
+21,bosnia i hercegovína
+23,brasil
+25,"bulgariya,"
+27,"burundi, uburundi"
+28,kampuchea
+32,république centrafricaine
+33,tchad
+35,zhōngguó
+37,comores koromi
+38,république du congo
+39,république démocratique du congo
+42,hrvatska
+44,κύπρος kıbrıs
+45,česko
+46,danmark
+48,república dominicana
+49,timor-lester
+51,misr
+53,guinea ecuatorial
+54,iritriya
+55,eesti
+57,'ityop''ia'
+59,suomi
+61,république gabonaise
+63,'sak''art''velo'
+64,deutschland
+65,gaana
+66,hellas ελλάς
+69,guinée
+71,haïti
+74,magyarország
+75,ísland
+76,bharôt
+78,īrān
+79,'al-''iraq'
+81,israʼiyl
+82,italia
+84,nippon
+85,'al-''urdun'
+86,qazaqsta
+88,chosŏn bukchosŏn
+89,hanguk
+90,kosova
+91,dawlat ul-kuwayt
+93,lao
+94,latvija
+95,lubnān
+99,lietuva
+102,malaŵi
+103,mǎláixīyà
+104,dhivehi raajje
+108,muritan
+110,mēxihco
+113,monaca
+114,mongol uls
+115,crna gora
+116,al-maɣréb
+117,moçambique
+118,myanma
+120,nepāl
+121,nederland
+126,severna makedonija
+127,norge
+128,‘umān
+129,pākistān
+131,filasṭīn
+132,panamá
+134,paraguái
+135,piruw
+137,polska
+139,qaṭar
+140,românia
+141,россия
+148,são tomé e principe
+149,al-‘arabiyyah as sa‘ūdiyyah 
+150,sénégal
+151,srbija србија
+155,slovensko
+156,slovenija
+158,"soomaaliya aş-şūmāl,"
+159,suid-afrika
+161,españa
+162,sri lankā  
+163,as-sudan
+164,sverige
+165,suisse
+166,suriyah
+167,tojikistan
+169,mueang thai
+173,tunes
+174,türkiye
+177,україна
+178,al-’imārat
+182,o‘zbekiston
+184,città del vaticano
+186,việt nam
+187,al-yaman
