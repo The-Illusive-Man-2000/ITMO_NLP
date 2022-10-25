@@ -20,4 +20,4 @@ Glove/NLP_glove.ipynb     $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 word2vec/NLP_word2vec_embeddings.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~$   _Создание эмбеддингов с помощью word2vec, обученного на новостях (google news) и их последующее сравнение через косинусное сходство._
 
 
-USE/Brand_identity_USE_test.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _Эксперименты с universal sentence encoder ._
+USE/Brand_identity_USE_testing.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _Эксперименты с universal sentence encoder ._
