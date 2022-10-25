@@ -7,4 +7,4 @@ word2vec/NLP_word2vec_embeddings.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 NLP_tfidfvectorizer_sum_of_word_embeddings.ipynb  $~~~~~~~~~~~~~$ _Создание эмбеддингов названий с помощью tfidfvectorizer, как суммы эмбеддингов слов и их последующее сравнение через косинусное сходство._
 
 
-Brand_identity_USE_test.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _Эксперименты с universal sentence encoder ._
+USE/Brand_identity_USE_test.ipynb  $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ _Эксперименты с universal sentence encoder ._
